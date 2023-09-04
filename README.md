@@ -1,4 +1,4 @@
-# Java Web Application on Tomcat AWS Deployment
+# Java Web Application on Apache Tomcat Server
 
 
 
@@ -6,6 +6,10 @@
 
 This project is a Java-based web application that demonstrates the deployment of a web application on an AWS EC2 instance using the Tomcat web server.
 In This Project we have used Jenkins Tool to automate the process of Building and Deployment.
+
+
+![Deployment_on_Tomcat](https://github.com/ShubhamBhurse/Project-1_Application_Deployed_On_Tomcat/assets/130531451/555fb332-0e21-4aba-bf6e-58b95e036d64)
+
 
 ## Project Video
 
