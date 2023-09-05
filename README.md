@@ -78,8 +78,7 @@ To set up Jenkins for this project, follow these steps:
 3. Set up build and deploy pipelines using Jenkinsfile or configure Jenkins jobs.
 
 ## Source Code
-Click Here
-https://github.com/ShubhamBhurse/maven-web-application.git
+[Click Here](https://github.com/ShubhamBhurse/maven-web-application.git)
 
 ## Acknowledgments
 Source Code is devloped by MSS (Mithun Software Solutions)
