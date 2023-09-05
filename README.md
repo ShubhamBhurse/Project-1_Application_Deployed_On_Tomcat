@@ -58,8 +58,7 @@ To deploy this application on AWS:
 
 ## AWS Services
 
-- This project utilizes AWS EC2 for hosting the application.
-- IAM roles and security groups are configured for security.
+- This project utilizes AWS EC2 Instances for Installing Jenkins and Apache Tomcat.
 
 ## Jenkins Automation
 
